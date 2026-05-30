@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 * Webアプリ制作、フロント技術中心
 * バックエンドとインフラ勉強中
-* エディタはNeovimメインで使ってるよ〜
+* Neovim使い（初心者）
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ki-mutaku&theme=gruvbox)
@@ -51,6 +51,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ki-mutaku&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ki-mutaku&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ki-mutaku&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ki-mutaku&theme=gruvbox)
