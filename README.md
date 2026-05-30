@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![Neovim](https://img.shields.io/badge/-57A143?style=flat&logo=neovim&logoColor=white)
 
 
 * Webアプリ制作、フロント技術中心
