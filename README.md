@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://komarev.com/ghpvc/?username=ki-mutaku&v=2" />
   </a>
   <a href="https://github.com/ki-mutaku">
-    <img height="20" src="https://img.shields.io/github/followers/ki-mutaku?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/ki-mutaku?label=follow&logo=github&style=flat&v=2" />
   </a>
   <a href="http://qiita.com/TUTAYADX">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TUTAYADX/posts.svg" />
