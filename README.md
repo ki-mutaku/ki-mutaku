@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/ki-mutaku">
-    <img height="20" src="https://komarev.com/ghpvc/?username=ki-mutaku&v=2" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=ki-mutaku" />
   </a>
   <a href="https://github.com/ki-mutaku">
-    <img height="20" src="https://img.shields.io/github/followers/ki-mutaku?label=follow&logo=github&style=flat&v=2" />
+    <img height="20" src="https://img.shields.io/github/followers/ki-mutaku?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/TUTAYADX">
     <img height="20" src="https://qiita-badge.apiapi.app/s/TUTAYADX/posts.svg" />
