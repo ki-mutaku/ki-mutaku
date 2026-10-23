@@ -22,12 +22,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/ki-mutaku">
     <img height="20" src="https://img.shields.io/github/followers/ki-mutaku?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/TUTAYADX">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TUTAYADX/posts.svg" />
-  </a>
-  <a href="http://qiita.com/TUTAYADX">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TUTAYADX/contributions.svg" />
-  </a>
   <a href="https://zenn.dev/ki_mutaku">
     <img height="20" src="https://badgen.org/img/zenn/ki_mutaku/articles?style=plastic" />
   </a>
